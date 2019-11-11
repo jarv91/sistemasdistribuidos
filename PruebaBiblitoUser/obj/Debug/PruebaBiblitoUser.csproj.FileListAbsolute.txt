@@ -1,0 +1,17 @@
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\bin\Debug\PruebaBiblitoUser.dll.config
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\bin\Debug\PruebaBiblitoUser.dll
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\bin\Debug\PruebaBiblitoUser.pdb
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\obj\Debug\PruebaBiblitoUser.csprojResolveAssemblyReference.cache
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\obj\Debug\PruebaBiblitoUser.dll
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\obj\Debug\PruebaBiblitoUser.pdb
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\bin\Debug\PruebaBiblitoUser.dll.config
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\bin\Debug\PruebaBiblitoUser.dll
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\bin\Debug\PruebaBiblitoUser.pdb
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\obj\Debug\PruebaBiblitoUser.csprojAssemblyReference.cache
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\obj\Debug\PruebaBiblitoUser.csproj.CoreCompileInputs.cache
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\obj\Debug\PruebaBiblitoUser.csproj.CopyComplete
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\obj\Debug\PruebaBiblitoUser.dll
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\PruebaBiblitoUser\obj\Debug\PruebaBiblitoUser.pdb

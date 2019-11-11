@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="WSBiblito.Service1" CodeBehind="User.svc.cs" %>

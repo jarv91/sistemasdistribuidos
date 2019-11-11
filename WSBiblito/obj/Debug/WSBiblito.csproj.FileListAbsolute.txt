@@ -1,0 +1,12 @@
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\WSBiblito\bin\WSBiblito.dll.config
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\WSBiblito\bin\WSBiblito.dll
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\WSBiblito\bin\WSBiblito.pdb
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\WSBiblito\obj\Debug\WSBiblito.dll
+C:\Users\Proyecto\Downloads\Proyecto DSD\Proyecto DSD\WSBiblito\WSBiblito\obj\Debug\WSBiblito.pdb
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\WSBiblito\bin\WSBiblito.dll.config
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\WSBiblito\bin\WSBiblito.dll
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\WSBiblito\bin\WSBiblito.pdb
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\WSBiblito\obj\Debug\WSBiblito.csprojAssemblyReference.cache
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\WSBiblito\obj\Debug\WSBiblito.csproj.CoreCompileInputs.cache
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\WSBiblito\obj\Debug\WSBiblito.dll
+D:\JARV\Universidad\Desarrollo de sistemas distribuidos\Proyecto DSD\Proyecto DSD\WSBiblito\WSBiblito\obj\Debug\WSBiblito.pdb
