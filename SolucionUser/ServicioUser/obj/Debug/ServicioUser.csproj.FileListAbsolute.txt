@@ -1,0 +1,7 @@
+C:\Users\Vladimir\source\repos\SolucionUser\ServicioUser\obj\Debug\ServicioUser.csprojAssemblyReference.cache
+C:\Users\Vladimir\source\repos\SolucionUser\ServicioUser\obj\Debug\ServicioUser.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\SolucionUser\ServicioUser\bin\ServicioUser.dll.config
+C:\Users\Vladimir\source\repos\SolucionUser\ServicioUser\bin\ServicioUser.dll
+C:\Users\Vladimir\source\repos\SolucionUser\ServicioUser\bin\ServicioUser.pdb
+C:\Users\Vladimir\source\repos\SolucionUser\ServicioUser\obj\Debug\ServicioUser.dll
+C:\Users\Vladimir\source\repos\SolucionUser\ServicioUser\obj\Debug\ServicioUser.pdb
